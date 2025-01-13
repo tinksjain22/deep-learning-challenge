@@ -40,7 +40,7 @@ The purpose of this analysis was to create a deep learning model to help Alphabe
   - The output layer used a **sigmoid** activation function to produce a binary outcome (IS_SUCCESSFUL: Yes or No).
 
 - **Achieving Target Performance:**  
-  The model successfully achieved an accuracy of **75.4%**, which surpasses the target accuracy of 75%. This means the model was able to correctly predict whether an organization would be successful after receiving funding in 75.4% of cases.
+  The model successfully achieved an accuracy of **75.6%**, which surpasses the target accuracy of 75%. This means the model was able to correctly predict whether an organization would be successful after receiving funding in 75.6% of cases.
 
 - **Steps Taken to Increase Model Performance:**  
   Several optimization strategies were implemented to improve the model’s accuracy:
